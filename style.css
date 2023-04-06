@@ -1,8 +1,39 @@
-
 .banner{
-  width: 1437px;
-  height: 400px;
+  width: 1900px;
+  height: 350px;
   left: 3px;
-  top: 10px;
-  z-index: 1;
+  top: 15px;
   
+  background: url(felps.jpg);
+}
+.menu{
+  position: absolute;
+  width: 195px;
+  height: 48px;
+  left: 570px;
+  top: 147px;
+  
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 48px;
+  
+  color: #0D0C0C;
+}
+
+.menu1{
+  position: absolute;
+  width: 189px;
+  height: 48px;
+  left: 909px;
+  top: 147px;
+  
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 48px;
+  
+  color: #090808;
+}
